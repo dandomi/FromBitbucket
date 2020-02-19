@@ -1,0 +1,30 @@
+PitchVar Rev  0B
+Quasi_Phase_Mathcing_Pitch_Variation
+FixedGap || #1 || wg_width:1 || NLL:2000 || F-pitch:2.02 || Gap:1.2
+FixedGap || #2 || wg_width:1 || NLL:5000 || F-pitch:2.02 || Gap:1.2
+FixedGap || #3 || wg_width:1 || NLL:8000 || F-pitch:2.02 || Gap:1.2
+FixedGap || #4 || wg_width:2 || NLL:2000 || F-pitch:2.5 || Gap:1.2
+FixedGap || #5 || wg_width:2 || NLL:5000 || F-pitch:2.5 || Gap:1.2
+FixedGap || #6 || wg_width:2 || NLL:8000 || F-pitch:2.5 || Gap:1.2
+FixedGap || #7 || wg_width:1 || NLL:2000 || F-pitch:4.4 || Gap:1.2
+FixedGap || #8 || wg_width:1 || NLL:5000 || F-pitch:4.4 || Gap:1.2
+FixedGap || #9 || wg_width:1 || NLL:8000 || F-pitch:4.4 || Gap:1.2
+Quasi_Phase_Mathcing_Pitch_Variation
+GapHalfPitch || #1 || wg_width:1 || NLL:2000 || F-pitch:2.02 || Gap:1.01
+GapHalfPitch || #2 || wg_width:1 || NLL:5000 || F-pitch:2.02 || Gap:1.01
+GapHalfPitch || #3 || wg_width:1 || NLL:8000 || F-pitch:2.02 || Gap:1.01
+GapHalfPitch || #4 || wg_width:2 || NLL:2000 || F-pitch:2.5 || Gap:1.25
+GapHalfPitch || #5 || wg_width:2 || NLL:5000 || F-pitch:2.5 || Gap:1.25
+GapHalfPitch || #6 || wg_width:2 || NLL:8000 || F-pitch:2.5 || Gap:1.25
+GapHalfPitch || #7 || wg_width:1 || NLL:2000 || F-pitch:4.4 || Gap:2.2
+GapHalfPitch || #8 || wg_width:1 || NLL:5000 || F-pitch:4.4 || Gap:2.2
+GapHalfPitch || #9 || wg_width:1 || NLL:8000 || F-pitch:4.4 || Gap:2.2
+Metal_Pitch Variation
+MetalHalfPitch || #1 || NLL:3000 || F-pitch:1.5 || Gap:0.75
+MetalHalfPitch || #2 || NLL:3000 || F-pitch:2 || Gap:1
+MetalHalfPitch || #3 || NLL:3000 || F-pitch:2.5 || Gap:1.25
+MetalHalfPitch || #4 || NLL:3000 || F-pitch:3 || Gap:1.5
+MetalHalfPitch || #5 || NLL:3000 || F-pitch:4 || Gap:2
+MetalHalfPitch || #6 || NLL:3000 || F-pitch:5 || Gap:2.5
+MetalHalfPitch || #7 || NLL:3000 || F-pitch:8 || Gap:4
+MetalHalfPitch || #8 || NLL:3000 || F-pitch:10 || Gap:5
